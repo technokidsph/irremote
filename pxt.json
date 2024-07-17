@@ -1,7 +1,7 @@
 {
     "name": "ir",
     "version": "0.0.1",
-    "description": "Emakefun irRmote",
+    "description": "Technokids irRmote",
     "dependencies": {
         "core": "*",
         "radio": "*",
